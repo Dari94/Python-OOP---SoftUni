@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79f50dab-b719-4049-9a95-2fc583228fe7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fGv7HW1q4hxSFQcNGf5rsBgiXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.easter_shop">
+    <configuration name="chocolate_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/factory" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/factory/chocolate_factory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="easter_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/easter_shop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paint_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/factory" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/factory/paint_factory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_paint_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_paint_factory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.chocolate_factory" />
+      <item itemvalue="Python.paint_factory" />
+      <item itemvalue="Python.test_1" />
+      <item itemvalue="Python.test_paint_factory" />
+      <item itemvalue="Python.easter_shop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.easter_shop" />
+        <item itemvalue="Python.chocolate_factory" />
+        <item itemvalue="Python.test_paint_factory" />
+        <item itemvalue="Python.test_1" />
+        <item itemvalue="Python.paint_factory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f50dab-b719-4049-9a95-2fc583228fe7" name="Default Changelist" comment="" />
+      <created>1595857075277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595857075277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="47" key="#Inspections" timestamp="1596558263262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="47" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1596558263262" />
+    <state x="414" y="0" key="#chocolate_factory" timestamp="1596690894199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#chocolate_factory/0.0.1366.728@0.0.1366.728" timestamp="1596690894199" />
+    <state x="414" y="0" key="#chocolate_factory_(1)" timestamp="1596564824959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#chocolate_factory_(1)/0.0.1366.728@0.0.1366.728" timestamp="1596564824959" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596642722516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596642722516" />
+    <state x="414" y="0" key="#easter_shop" timestamp="1596920657049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#easter_shop/0.0.1366.728@0.0.1366.728" timestamp="1596920657049" />
+    <state x="0" y="0" key="#paint_factory" timestamp="1596652781554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#paint_factory/0.0.1366.728@0.0.1366.728" timestamp="1596652781554" />
+    <state x="0" y="0" key="#test_1" timestamp="1596655658831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#test_1/0.0.1366.728@0.0.1366.728" timestamp="1596655658831" />
+    <state x="0" y="0" key="#test_paint_factory" timestamp="1596646913363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#test_paint_factory/0.0.1366.728@0.0.1366.728" timestamp="1596646913363" />
+    <state x="0" y="0" key="#test_paint_factory_1" timestamp="1596651713257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#test_paint_factory_1/0.0.1366.728@0.0.1366.728" timestamp="1596651713257" />
+    <state x="562" y="240" key="FileChooserDialogImpl" timestamp="1596787903179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="562" y="240" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596787903179" />
+    <state width="1144" height="178" key="GridCell.Tab.0.bottom" timestamp="1596920803658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1144" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596920803658" />
+    <state width="1144" height="178" key="GridCell.Tab.0.center" timestamp="1596920803658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1144" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596920803658" />
+    <state width="1144" height="178" key="GridCell.Tab.0.left" timestamp="1596920803658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1144" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596920803658" />
+    <state width="1144" height="178" key="GridCell.Tab.0.right" timestamp="1596920803658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1144" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596920803658" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596634904644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596634904644" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1596634904644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596634904644" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1596634904644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596634904644" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1596634904644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596634904644" />
+    <state x="479" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1596787383904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="334" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596787383904" />
+  </component>
+</project>
